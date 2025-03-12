@@ -32,7 +32,7 @@ sudo pmset -a disablesleep 1
 
 ### 不可工作的部分
 - 空投与接力：需要破解BIOS白名单，并更换可兼容的博通Wi-Fi网卡
-- microSD读卡器：暂时无解
+- microSD读卡器：无解
 - iPhone镜像：无解
 - 独立显卡：无解
 - HDMI接口：未测试

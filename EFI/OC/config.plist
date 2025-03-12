@@ -42,6 +42,14 @@
                 </dict>
                 <dict>
                     <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>SSDT-Disable-CardReader.aml</string>
+                </dict>
+                <dict>
+                    <key>Comment</key>
                     <string>Generic USBX device for USB power properties</string>
                     <key>Enabled</key>
                     <true/>
@@ -1110,24 +1118,6 @@
                     <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/VoodooI2CHID</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>EmeraldSDHC.kext</string>
-                    <key>Comment</key>
-                    <string>V0.1.2 | By RapidEFI-Pro</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/EmeraldSDHC</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
