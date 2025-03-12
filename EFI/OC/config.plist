@@ -657,7 +657,7 @@
                     <key>Comment</key>
                     <string>V1.1.2 | By RapidEFI-Pro</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/NVMeFix</string>
                     <key>MaxKernel</key>
